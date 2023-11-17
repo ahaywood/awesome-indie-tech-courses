@@ -18,8 +18,8 @@
 ## JavaScript
 
 - [Beginner JavaScript](https://beginnerjavascript.com/) - by Wes Bos
-- [ES6 for Everyone](https://es6.io/)
-- [Javascript30](https://javascript30.com/)
+- [ES6 for Everyone](https://es6.io/) - by Wes Bos
+- [Javascript30](https://javascript30.com/) - by Wes Bos
 - [Just JavaScript](https://justjavascript.com/) - by Dan Abramov
 
 ## Leadership
