@@ -1,4 +1,4 @@
-# Awesome Indie Courses
+# Awesome Indie Tech Courses
 
 ## a11y
 
