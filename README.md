@@ -50,6 +50,10 @@
 - [Total TypeScript](https://www.totaltypescript.com/) - by Matt Pocock
 - [React and TypeScript for Everyone](https://levelup.video/tutorials/react-and-typescript-for-everyone) - by Scott Tolinski
 
+## VS Code
+
+- [VS Code SuperHero](https://www.vscodehero.com/) - by Jesse Hall (@codeSTACKr)
+
 ## Web
 
 - [Epic Web](https://www.epicweb.dev/) - by Kent C. Dodds
