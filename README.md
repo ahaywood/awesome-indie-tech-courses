@@ -21,6 +21,7 @@
 - [ES6 for Everyone](https://es6.io/) - by Wes Bos
 - [Javascript30](https://javascript30.com/) - by Wes Bos
 - [Just JavaScript](https://justjavascript.com/) - by Dan Abramov
+- [Intro to JavaScript](https://www.udacity.com/course/intro-to-javascript--ud803) - by Julia Van Cleve & James Parkes
 
 ## Leadership
 
